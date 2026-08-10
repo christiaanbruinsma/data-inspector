@@ -1,0 +1,6 @@
+id,name,note,amount,active,empty
+1,Ada,"comma, stays inside",12.5,True,
+2,Linus,"quoted ""text""",-4.25,False,
+3,Zoë,"line one
+line two",0,True,
+4,日本語 😀,"semicolon; and comma, together",9999.99,False,

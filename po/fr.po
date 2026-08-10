@@ -1,0 +1,287 @@
+# Data Inspector translation catalog.
+# Copyright (C) 2026 Christiaan Bruinsma
+# This file is distributed under the same license as Data Inspector.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Data Inspector 0.9.0\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "About Data Inspector"
+msgstr "À propos de Data Inspector"
+
+msgid "Array"
+msgstr "Tableau"
+
+msgid "Boolean"
+msgstr "Booléen"
+
+msgid "CSV · generated column names"
+msgstr "CSV · noms de colonnes générés"
+
+msgid "CSV · headers detected"
+msgstr "CSV · en-têtes détectés"
+
+msgid "Cell copied"
+msgstr "Cellule copiée"
+
+msgid "Children"
+msgstr "Éléments enfants"
+
+msgid "Close file"
+msgstr "Fermer le fichier"
+
+msgid "Collapse"
+msgstr "Réduire"
+
+msgid "Column"
+msgstr "Colonne"
+
+msgid "Column copied"
+msgstr "Colonne copiée"
+
+msgid "Column index"
+msgstr "Index de colonne"
+
+msgid "Column {index}"
+msgstr "Colonne {index}"
+
+msgid "Columns"
+msgstr "Colonnes"
+
+msgid "Comma (,)"
+msgstr "Virgule (,)"
+
+msgid "Copy Cell"
+msgstr "Copier la cellule"
+
+msgid "Copy Column"
+msgstr "Copier la colonne"
+
+msgid "Copy Item"
+msgstr "Copier l’élément"
+
+msgid "Copy Location"
+msgstr "Copier l’emplacement"
+
+msgid "Copy Path"
+msgstr "Copier le chemin"
+
+msgid "Copy Row"
+msgstr "Copier la ligne"
+
+msgid "Copy Value"
+msgstr "Copier la valeur"
+
+msgid "Could not read file: {error}"
+msgstr "Impossible de lire le fichier : {error}"
+
+msgid "Current file"
+msgstr "Fichier actuel"
+
+msgid "Data file"
+msgstr "Fichier de données"
+
+msgid "Delimiter"
+msgstr "Délimiteur"
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Drop a JSON, CSV, or TSV file here, or use Open Data in the sidebar."
+msgstr "Déposez ici un fichier JSON, CSV ou TSV, ou utilisez « Ouvrir les données » dans la barre latérale."
+
+msgid "Empty"
+msgstr "Vide"
+
+msgid "Empty cell"
+msgstr "Cellule vide"
+
+msgid "Expand"
+msgstr "Développer"
+
+msgid "File size"
+msgstr "Taille du fichier"
+
+msgid "First row is header"
+msgstr "La première ligne est un en-tête"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Inspect structured data files locally in a clear, readable view."
+msgstr "Inspecter localement des fichiers de données structurées dans une vue claire et lisible."
+
+msgid "Inspector"
+msgstr "Inspecteur"
+
+msgid "Invalid CSV: {error}"
+msgstr "CSV invalide : {error}"
+
+msgid "Invalid JSON at line {line}, column {column}: {error}"
+msgstr "JSON invalide à la ligne {line}, colonne {column} : {error}"
+
+msgid "Item copied"
+msgstr "Élément copié"
+
+msgid "Items"
+msgstr "Éléments"
+
+msgid "JSON nodes"
+msgstr "Nœuds JSON"
+
+msgid "JSON · {type}"
+msgstr "JSON · {type}"
+
+msgid "Key / index"
+msgstr "Clé / index"
+
+msgid "Main menu"
+msgstr "Menu principal"
+
+msgid "Maximum depth"
+msgstr "Profondeur maximale"
+
+msgid "No data file loaded"
+msgstr "Aucun fichier de données chargé"
+
+msgid "Null"
+msgstr "Null"
+
+msgid "Number"
+msgstr "Nombre"
+
+msgid "Object"
+msgstr "Objet"
+
+msgid "Open Data"
+msgstr "Ouvrir les données"
+
+msgid "Open a data file"
+msgstr "Ouvrir un fichier de données"
+
+msgid "Open a file to inspect its data"
+msgstr "Ouvrez un fichier pour inspecter ses données"
+
+msgid "Override automatic header detection"
+msgstr "Remplacer la détection automatique des en-têtes"
+
+msgid "Overview"
+msgstr "Vue d’ensemble"
+
+msgid "Path"
+msgstr "Chemin"
+
+msgid "Path copied"
+msgstr "Chemin copié"
+
+msgid "Quit"
+msgstr "Quitter"
+
+msgid "Raw view"
+msgstr "Vue source"
+
+msgid "Root"
+msgstr "Racine"
+
+msgid "Row"
+msgstr "Ligne"
+
+msgid "Row copied"
+msgstr "Ligne copiée"
+
+msgid "Row {row} · {column}"
+msgstr "Ligne {row} · {column}"
+
+msgid "Rows"
+msgstr "Lignes"
+
+msgid "Search data…"
+msgstr "Rechercher dans les données…"
+
+msgid "Selected data item"
+msgstr "Élément de données sélectionné"
+
+msgid "Selection"
+msgstr "Sélection"
+
+msgid "Semicolon (;)"
+msgstr "Point-virgule (;)"
+
+msgid "Show or hide Inspector"
+msgstr "Afficher ou masquer l’inspecteur"
+
+msgid "Show or hide left sidebar"
+msgstr "Afficher ou masquer la barre latérale gauche"
+
+msgid "String"
+msgstr "Chaîne"
+
+msgid "Structured data files"
+msgstr "Fichiers de données structurées"
+
+msgid "Structured data inspector"
+msgstr "Inspecteur de données structurées"
+
+msgid "Structured view"
+msgstr "Vue structurée"
+
+msgid "Structured {format} view"
+msgstr "Vue {format} structurée"
+
+msgid "Tab"
+msgstr "Tabulation"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "This CSV file contains no columns."
+msgstr "Ce fichier CSV ne contient aucune colonne."
+
+msgid "This CSV file contains no records."
+msgstr "Ce fichier CSV ne contient aucun enregistrement."
+
+msgid "This CSV file is empty."
+msgstr "Ce fichier CSV est vide."
+
+msgid "This file is not valid UTF-8 {format}."
+msgstr "Ce fichier n’est pas un {format} UTF-8 valide."
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unsupported file type. Open a JSON, CSV, or TSV file."
+msgstr "Type de fichier non pris en charge. Ouvrez un fichier JSON, CSV ou TSV."
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Value copied"
+msgstr "Valeur copiée"
+
+msgid "{format} loaded locally."
+msgstr "{format} chargé localement."
+
+msgid "{count} item"
+msgid_plural "{count} items"
+msgstr[0] "{count} élément"
+msgstr[1] "{count} éléments"
+
+msgid "{count} key"
+msgid_plural "{count} keys"
+msgstr[0] "{count} clé"
+msgstr[1] "{count} clés"
+
+msgid "Array with {count} item"
+msgid_plural "Array with {count} items"
+msgstr[0] "Tableau avec {count} élément"
+msgstr[1] "Tableau avec {count} éléments"
+
+msgid "Object with {count} key"
+msgid_plural "Object with {count} keys"
+msgstr[0] "Objet avec {count} clé"
+msgstr[1] "Objet avec {count} clés"

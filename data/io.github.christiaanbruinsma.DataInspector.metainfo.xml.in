@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>@APP_ID@</id>
+  <name>Data Inspector</name>
+  <summary>Inspect structured data locally</summary>
+  <summary xml:lang="nl">Inspecteer gestructureerde gegevens lokaal</summary>
+  <summary xml:lang="de">Strukturierte Daten lokal untersuchen</summary>
+  <summary xml:lang="fr">Inspecter des données structurées localement</summary>
+  <summary xml:lang="es">Inspeccionar datos estructurados localmente</summary>
+  <summary xml:lang="it">Ispeziona dati strutturati in locale</summary>
+  <summary xml:lang="pt">Inspecionar dados estruturados localmente</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <url type="homepage">https://github.com/christiaanbruinsma/data-inspector</url>
+  <developer id="io.github.christiaanbruinsma">
+    <name>Christiaan Bruinsma</name>
+  </developer>
+  <description>
+    <p>Data Inspector is a local-first GNOME utility for opening structured data files and understanding their contents without uploading data to a third-party service.</p>
+    <p xml:lang="nl">Data Inspector is een local-first GNOME-hulpprogramma voor het openen van gestructureerde gegevensbestanden en het begrijpen van hun inhoud zonder gegevens naar een externe dienst te uploaden.</p>
+    <p xml:lang="de">Data Inspector ist ein lokal arbeitendes GNOME-Werkzeug zum Öffnen strukturierter Datendateien und zum Verstehen ihrer Inhalte, ohne Daten zu einem Drittanbieterdienst hochzuladen.</p>
+    <p xml:lang="fr">Data Inspector est un utilitaire GNOME local-first permettant d’ouvrir des fichiers de données structurées et d’en comprendre le contenu sans envoyer de données à un service tiers.</p>
+    <p xml:lang="es">Data Inspector es una utilidad GNOME local-first para abrir archivos de datos estructurados y comprender su contenido sin subir datos a un servicio de terceros.</p>
+    <p xml:lang="it">Data Inspector è un’utilità GNOME local-first per aprire file di dati strutturati e comprenderne il contenuto senza caricare dati su un servizio di terze parti.</p>
+    <p xml:lang="pt">O Data Inspector é um utilitário GNOME local-first para abrir ficheiros de dados estruturados e compreender o seu conteúdo sem enviar dados para um serviço de terceiros.</p>
+    <p>The first version provides structured and raw JSON views plus native CSV/TSV tables, search, contextual inspection, drag and drop, and copy actions.</p>
+    <p xml:lang="nl">De eerste versie biedt gestructureerde en bronweergaven voor JSON, native CSV/TSV-tabellen, zoeken, contextuele inspectie, slepen en neerzetten en kopieeracties.</p>
+    <p xml:lang="de">Die erste Version bietet strukturierte und Quellansichten für JSON sowie native CSV/TSV-Tabellen, Suche, kontextbezogene Inspektion, Drag-and-drop und Kopieraktionen.</p>
+    <p xml:lang="fr">La première version propose des vues JSON structurée et source, des tableaux CSV/TSV natifs, la recherche, l’inspection contextuelle, le glisser-déposer et des actions de copie.</p>
+    <p xml:lang="es">La primera versión ofrece vistas JSON estructurada y de origen, tablas CSV/TSV nativas, búsqueda, inspección contextual, arrastrar y soltar y acciones de copia.</p>
+    <p xml:lang="it">La prima versione offre viste JSON strutturata e sorgente, tabelle CSV/TSV native, ricerca, ispezione contestuale, trascinamento e azioni di copia.</p>
+    <p xml:lang="pt">A primeira versão disponibiliza vistas JSON estruturada e de origem, tabelas CSV/TSV nativas, pesquisa, inspeção contextual, arrastar e largar e ações de cópia.</p>
+  </description>
+  <launchable type="desktop-id">@APP_ID@.desktop</launchable>
+  <provides>
+    <binary>data-inspector</binary>
+    <mediatype>application/json</mediatype>
+    <mediatype>text/csv</mediatype>
+    <mediatype>text/tab-separated-values</mediatype>
+  </provides>
+  <releases>
+    <release version="0.9.0" date="2026-08-09">
+      <description>
+        <p>Initial public release candidate with local JSON and CSV/TSV inspection, search, contextual copy actions, and robust structured/raw views.</p>
+        <p xml:lang="nl">Eerste publieke releasecandidate met lokale inspectie van JSON en CSV/TSV, zoeken, contextuele kopieeracties en robuuste gestructureerde en bronweergaven.</p>
+        <p xml:lang="de">Erster öffentlicher Release Candidate mit lokaler JSON- und CSV/TSV-Inspektion, Suche, kontextbezogenen Kopieraktionen und robusten strukturierten/Quellansichten.</p>
+        <p xml:lang="fr">Premier candidat à la publication publique avec inspection locale de JSON et CSV/TSV, recherche, actions de copie contextuelles et vues structurée/source robustes.</p>
+        <p xml:lang="es">Primer candidato de lanzamiento público con inspección local de JSON y CSV/TSV, búsqueda, acciones de copia contextuales y vistas estructurada/de origen robustas.</p>
+        <p xml:lang="it">Primo candidato al rilascio pubblico con ispezione locale di JSON e CSV/TSV, ricerca, azioni di copia contestuali e viste strutturata/sorgente robuste.</p>
+        <p xml:lang="pt">Primeiro candidato a lançamento público com inspeção local de JSON e CSV/TSV, pesquisa, ações de cópia contextuais e vistas estruturada/de origem robustas.</p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

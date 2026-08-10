@@ -1,0 +1,287 @@
+# Data Inspector translation catalog.
+# Copyright (C) 2026 Christiaan Bruinsma
+# This file is distributed under the same license as Data Inspector.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Data Inspector 0.9.0\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About Data Inspector"
+msgstr "Over Data Inspector"
+
+msgid "Array"
+msgstr "Array"
+
+msgid "Boolean"
+msgstr "Booleaans"
+
+msgid "CSV · generated column names"
+msgstr "CSV · gegenereerde kolomnamen"
+
+msgid "CSV · headers detected"
+msgstr "CSV · kopteksten gedetecteerd"
+
+msgid "Cell copied"
+msgstr "Cel gekopieerd"
+
+msgid "Children"
+msgstr "Onderliggende items"
+
+msgid "Close file"
+msgstr "Bestand sluiten"
+
+msgid "Collapse"
+msgstr "Inklappen"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "Column copied"
+msgstr "Kolom gekopieerd"
+
+msgid "Column index"
+msgstr "Kolomindex"
+
+msgid "Column {index}"
+msgstr "Kolom {index}"
+
+msgid "Columns"
+msgstr "Kolommen"
+
+msgid "Comma (,)"
+msgstr "Komma (,)"
+
+msgid "Copy Cell"
+msgstr "Cel kopiëren"
+
+msgid "Copy Column"
+msgstr "Kolom kopiëren"
+
+msgid "Copy Item"
+msgstr "Item kopiëren"
+
+msgid "Copy Location"
+msgstr "Locatie kopiëren"
+
+msgid "Copy Path"
+msgstr "Pad kopiëren"
+
+msgid "Copy Row"
+msgstr "Rij kopiëren"
+
+msgid "Copy Value"
+msgstr "Waarde kopiëren"
+
+msgid "Could not read file: {error}"
+msgstr "Kon bestand niet lezen: {error}"
+
+msgid "Current file"
+msgstr "Huidig bestand"
+
+msgid "Data file"
+msgstr "Gegevensbestand"
+
+msgid "Delimiter"
+msgstr "Scheidingsteken"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Drop a JSON, CSV, or TSV file here, or use Open Data in the sidebar."
+msgstr "Sleep hier een JSON-, CSV- of TSV-bestand naartoe, of gebruik Gegevens openen in de zijbalk."
+
+msgid "Empty"
+msgstr "Leeg"
+
+msgid "Empty cell"
+msgstr "Lege cel"
+
+msgid "Expand"
+msgstr "Uitklappen"
+
+msgid "File size"
+msgstr "Bestandsgrootte"
+
+msgid "First row is header"
+msgstr "Eerste rij is koptekst"
+
+msgid "Format"
+msgstr "Formaat"
+
+msgid "Inspect structured data files locally in a clear, readable view."
+msgstr "Inspecteer gestructureerde gegevensbestanden lokaal in een duidelijke, leesbare weergave."
+
+msgid "Inspector"
+msgstr "Inspector"
+
+msgid "Invalid CSV: {error}"
+msgstr "Ongeldige CSV: {error}"
+
+msgid "Invalid JSON at line {line}, column {column}: {error}"
+msgstr "Ongeldige JSON op regel {line}, kolom {column}: {error}"
+
+msgid "Item copied"
+msgstr "Item gekopieerd"
+
+msgid "Items"
+msgstr "Items"
+
+msgid "JSON nodes"
+msgstr "JSON-knooppunten"
+
+msgid "JSON · {type}"
+msgstr "JSON · {type}"
+
+msgid "Key / index"
+msgstr "Sleutel / index"
+
+msgid "Main menu"
+msgstr "Hoofdmenu"
+
+msgid "Maximum depth"
+msgstr "Maximale diepte"
+
+msgid "No data file loaded"
+msgstr "Geen gegevensbestand geladen"
+
+msgid "Null"
+msgstr "Null"
+
+msgid "Number"
+msgstr "Getal"
+
+msgid "Object"
+msgstr "Object"
+
+msgid "Open Data"
+msgstr "Gegevens openen"
+
+msgid "Open a data file"
+msgstr "Gegevensbestand openen"
+
+msgid "Open a file to inspect its data"
+msgstr "Open een bestand om de gegevens te inspecteren"
+
+msgid "Override automatic header detection"
+msgstr "Automatische koptekstdetectie overschrijven"
+
+msgid "Overview"
+msgstr "Overzicht"
+
+msgid "Path"
+msgstr "Pad"
+
+msgid "Path copied"
+msgstr "Pad gekopieerd"
+
+msgid "Quit"
+msgstr "Afsluiten"
+
+msgid "Raw view"
+msgstr "Bronweergave"
+
+msgid "Root"
+msgstr "Hoofd"
+
+msgid "Row"
+msgstr "Rij"
+
+msgid "Row copied"
+msgstr "Rij gekopieerd"
+
+msgid "Row {row} · {column}"
+msgstr "Rij {row} · {column}"
+
+msgid "Rows"
+msgstr "Rijen"
+
+msgid "Search data…"
+msgstr "Gegevens doorzoeken…"
+
+msgid "Selected data item"
+msgstr "Geselecteerd gegevensitem"
+
+msgid "Selection"
+msgstr "Selectie"
+
+msgid "Semicolon (;)"
+msgstr "Puntkomma (;)"
+
+msgid "Show or hide Inspector"
+msgstr "Inspector tonen of verbergen"
+
+msgid "Show or hide left sidebar"
+msgstr "Linkerzijbalk tonen of verbergen"
+
+msgid "String"
+msgstr "Tekenreeks"
+
+msgid "Structured data files"
+msgstr "Gestructureerde gegevensbestanden"
+
+msgid "Structured data inspector"
+msgstr "Inspector voor gestructureerde data"
+
+msgid "Structured view"
+msgstr "Gestructureerde weergave"
+
+msgid "Structured {format} view"
+msgstr "Gestructureerde {format}-weergave"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "This CSV file contains no columns."
+msgstr "Dit CSV-bestand bevat geen kolommen."
+
+msgid "This CSV file contains no records."
+msgstr "Dit CSV-bestand bevat geen records."
+
+msgid "This CSV file is empty."
+msgstr "Dit CSV-bestand is leeg."
+
+msgid "This file is not valid UTF-8 {format}."
+msgstr "Dit bestand is geen geldige UTF-8-{format}."
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unsupported file type. Open a JSON, CSV, or TSV file."
+msgstr "Niet-ondersteund bestandstype. Open een JSON-, CSV- of TSV-bestand."
+
+msgid "Value"
+msgstr "Waarde"
+
+msgid "Value copied"
+msgstr "Waarde gekopieerd"
+
+msgid "{format} loaded locally."
+msgstr "{format} lokaal geladen."
+
+msgid "{count} item"
+msgid_plural "{count} items"
+msgstr[0] "{count} item"
+msgstr[1] "{count} items"
+
+msgid "{count} key"
+msgid_plural "{count} keys"
+msgstr[0] "{count} sleutel"
+msgstr[1] "{count} sleutels"
+
+msgid "Array with {count} item"
+msgid_plural "Array with {count} items"
+msgstr[0] "Array met {count} item"
+msgstr[1] "Array met {count} items"
+
+msgid "Object with {count} key"
+msgid_plural "Object with {count} keys"
+msgstr[0] "Object met {count} sleutel"
+msgstr[1] "Object met {count} sleutels"

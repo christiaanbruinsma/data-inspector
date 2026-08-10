@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Data Inspector
+Comment=Inspect structured data locally
+Comment[nl]=Inspecteer gestructureerde gegevens lokaal
+Comment[de]=Strukturierte Daten lokal untersuchen
+Comment[fr]=Inspecter des données structurées localement
+Comment[es]=Inspeccionar datos estructurados localmente
+Comment[it]=Ispeziona dati strutturati in locale
+Comment[pt]=Inspecionar dados estruturados localmente
+Exec=data-inspector
+Icon=@APP_ID@
+Terminal=false
+Type=Application
+Categories=Utility;Development;
+Keywords=json;csv;tsv;data;viewer;inspect;structured;
+StartupNotify=true
+MimeType=application/json;text/csv;text/tab-separated-values;

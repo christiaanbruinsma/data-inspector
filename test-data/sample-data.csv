@@ -1,0 +1,6 @@
+id,name,company,active,score,notes
+1,Ada Lovelace,Analytical Engines,true,98.5,First programmer
+2,Grace Hopper,Compiler Labs,true,97.2,"Contains, comma"
+3,Edsger Dijkstra,Structured Systems,false,91,Unicode: café — €
+4,Margaret Hamilton,Apollo Software,true,99.9,"Line 1
+Line 2"

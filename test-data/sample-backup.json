@@ -1,0 +1,23 @@
+{
+  "application": "Example Bench",
+  "backup_version": 1,
+  "created_at": "2026-08-09T09:00:00+02:00",
+  "settings": {
+    "language": "en",
+    "local_only": true,
+    "autosave": true
+  },
+  "people": [
+    {
+      "name": "Alex",
+      "role": "Owner",
+      "active": true
+    },
+    {
+      "name": "Sam",
+      "role": "Designer",
+      "active": true
+    }
+  ],
+  "notes": null
+}
