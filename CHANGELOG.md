@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.9.1 — 2026-08-12
+
+- Embed gettext translation catalogs directly in the standalone Flatpak release bundle.
+- Ensure Dutch, German, French, Spanish, Italian, and Portuguese remain available when installing the GitHub `.flatpak` without a separate `.Locale` extension.
+- No application feature, data-processing, or UI behavior changes.
+
 ## 0.9.0 — 2026-08-09
 
 - Establish Data Inspector as a native Rust/GTK4/libadwaita structured-data inspector.

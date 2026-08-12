@@ -5,6 +5,7 @@ sdk: org.gnome.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.rust-stable
 command: data-inspector
+separate-locales: false
 
 build-options:
   append-path: /usr/lib/sdk/rust-stable/bin

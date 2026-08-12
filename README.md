@@ -1,6 +1,6 @@
 # Data Inspector
 
-Data Inspector is a local-first GNOME utility for inspecting structured data without uploading it to a third-party service. Version 0.9.0 focuses on fast, read-only inspection of JSON, CSV, and TSV files in a native GTK4/libadwaita interface.
+Data Inspector is a local-first GNOME utility for inspecting structured data without uploading it to a third-party service. Version 0.9.1 is a packaging maintenance release for the established v0.9.0 JSON, CSV, and TSV inspection baseline.
 
 ## v0.9.0 scope
 
@@ -47,7 +47,7 @@ Development app ID:
 
 ## Release candidate
 
-For the v0.9.0 release identity use:
+For the release identity use:
 
 `io.github.christiaanbruinsma.DataInspector.yml`
 

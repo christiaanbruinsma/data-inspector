@@ -3,3 +3,5 @@ _build/
 
 target/
 *.flatpak
+build-dir/
+repo/

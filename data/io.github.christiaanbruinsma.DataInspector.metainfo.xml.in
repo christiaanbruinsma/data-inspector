@@ -39,6 +39,11 @@
     <mediatype>text/tab-separated-values</mediatype>
   </provides>
   <releases>
+    <release version="0.9.1" date="2026-08-12">
+      <description>
+        <p>Fixes standalone Flatpak localization packaging by embedding the supported gettext translation catalogs directly in the application bundle.</p>
+      </description>
+    </release>
     <release version="0.9.0" date="2026-08-09">
       <description>
         <p>Initial public release candidate with local JSON and CSV/TSV inspection, search, contextual copy actions, and robust structured/raw views.</p>
